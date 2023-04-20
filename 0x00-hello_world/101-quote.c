@@ -3,8 +3,8 @@
 /**
  *main - A program that prints a line to the standard error
  *Description: print a quote using write function
- *     size_t write (int fd, const void *buf,size_t count);
- *Return: 1 (not success).
+ *    ssize_t write (int fd, const void *buf, size_t count);
+ *Return: 1 (error).
 */
 
 int main(void)
