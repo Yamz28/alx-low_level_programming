@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main -Prints a[2] = 98
- * Return: success
- */
-
 int main(void)
 {
 int n;
