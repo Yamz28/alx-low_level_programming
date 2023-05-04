@@ -3,6 +3,10 @@
 
 #include <stdio.h>
 
+<<<<<<< HEAD
+=======
+int main(void);
+>>>>>>> 83e59790dc7d99c9cc491a6ab7a3b46cda67007c
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
