@@ -1,4 +1,5 @@
- #include "lists.h"
+
+#include "lists.h"
 
 /**
  * add_nodeint_end - add a new node at the end
@@ -37,31 +38,7 @@ listint_t *add_nodeint_end(listint_t **head, const int n)
 	}
 
 	return (*head);
-}
-
-
-
-
-
-
-	
-
-
-		
-
-	
-
-	 
-
-	
-
-	
-	
-	
-
-
-
-		
+}          
 		
 	
 
